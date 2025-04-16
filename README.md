@@ -15,6 +15,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
   🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – React + Chakra UI game discovery platform.
 
 ---
+
 ### 🧰 Tech Stack
 
 **Front-end:**  
@@ -25,6 +26,7 @@ Node.js • Express.js • PHP • Laravel • MySQL
 
 **Other:**  
 REST APIs • Git & GitHub • Vercel • CI/CD • Responsive & Mobile-First Design • SEO Optimization
+
 ---
 
 ### ⚡ Fun Fact  
