@@ -4,18 +4,23 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ---
 
-### 🚧 Projects
+### 🚧 What I'm Up To
 
-- 🧭 [Himalaya Travel CRM](https://himalayatravel.net) – Booking & customer management for a travel agency.
-- 🛒 ChilaShop – A clean, modern e-commerce platform.
-- 🎨 [KDDesignStudio](https://kddesignstudio.net/) – Portfolio site built with Laravel.
-- 🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – Game explorer app using React, Chakra UI & React Query.
+- 🔧 **Currently working on**:  
+  🛒 *ChilaShop* – A modern e-commerce platform with Next.Js.  
+  🧭 *CRM for [Himalaya Travel Agency](https://himalayatravel.net)* – Custom booking & customer management system.
+
+- ✅ **Recently worked on**:  
+  🎨 [KD Design Studio](https://kddesignstudio.net/) – Portfolio & service site built with Laravel.  
+  🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – React + Chakra UI game discovery platform.
 
 ---
 
 ### 🛠 Tech I Use
 
-React • TypeScript • Next.js • Tailwind CSS • Node.js • Laravel • PHP • Express • MySQL • Chakra UI • Material UI
+React • TypeScript • Next.js • Tailwind CSS  
+Node.js • Laravel • PHP • Express • MySQL  
+Chakra UI • Material UI
 
 ---
 
