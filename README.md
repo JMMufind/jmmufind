@@ -19,31 +19,32 @@ Full-Stack Developer building community-driven and client-focused web apps.
 ### 🧰 Tech Stack
 
 <div style="text-align: right;">
+  **Front-end:**  
   <p>
     <!-- Frontend -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="TypeScript" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="React" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" style="margin-right: 10px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="22" alt="Tailwind CSS" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="TypeScript" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="React" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="19" alt="Next.js" style="margin-right: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="22" alt="Tailwind CSS" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="22" alt="Material UI" />
   </p>
-
+  **Back-end:**  
   <p>
     <!-- Backend -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="22" alt="Node.js" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="22" alt="Express" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="22" alt="PHP" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="22" alt="Laravel" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="22" alt="Node.js" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="22" alt="Express" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="22" alt="PHP" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="22" alt="Laravel" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="MySQL" />
   </p>
-
+  **Other tools:**  
   <p>
     <!-- Other tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="Git" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" alt="GitHub" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="Git" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" alt="GitHub" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="22" alt="Vercel" />
   </p>
 </div>
