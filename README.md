@@ -18,7 +18,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ### 🧰 Tech Stack
 
-<div style="margin-left: 100px">
+- <div style="margin-left: 100px">
 
   <h4 style="margin-bottom: 4px;">🧩 Front-end</h4>
   <p>
@@ -47,7 +47,6 @@ Full-Stack Developer building community-driven and client-focused web apps.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" alt="GitHub" style="margin-right: 16px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="22" alt="Vercel" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="Docker" />
-</p>
   </p>
 
 </div>
