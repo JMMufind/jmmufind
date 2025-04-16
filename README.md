@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 ### 📫 Let's Connect
 
 - 📧 Email: makayamufind@gmail.com
-- 🧑‍💻 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/jean-marc-mufind)
+- 🧑‍💻 LinkedIn: https://linkedin.com/in/jean-marc-mufind
 
 ---
 
