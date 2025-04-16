@@ -32,7 +32,6 @@ Full-Stack Developer building community-driven and client-focused web apps.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="22" alt="Material UI" />
       </p>
     </div>
-
     <div>
       <h4 style="margin-bottom: 4px;">🛠️ Back-end</h4>
       <p>
@@ -43,7 +42,6 @@ Full-Stack Developer building community-driven and client-focused web apps.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="MySQL" />
       </p>
     </div>
-
     <div>
       <h4 style="margin-bottom: 4px;">🔧 Tools & Platforms</h4>
       <p>
