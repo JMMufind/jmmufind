@@ -26,7 +26,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ---
 
-👨‍💻 Member at [Your Organization Name](https://github.com/tano-community)
+👨‍💻 Member at [Tano]([https://github.com/Tano-Integrated-Technology])
 
 
 ### ⚡ Fun Fact  
