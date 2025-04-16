@@ -18,7 +18,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
   <h3 style="margin-top: 0;">🧰 Tech Stack</h3>
-  <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+  <div style="display: flex !important; gap: 2px; flex-wrap: wrap;">
     <div>
       <h4 style="margin-bottom: 4px;">🧩 Front-end</h4>
       <p>
