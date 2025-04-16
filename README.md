@@ -56,11 +56,3 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ### ⚡ Fun Fact  
 I love building tools that uplift communities — code with purpose.
-
-![](https://nirzak-streak-stats.vercel.app/?user=JMMufind&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JMMufind&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=JMMufind&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
