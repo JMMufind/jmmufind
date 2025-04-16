@@ -15,20 +15,16 @@ Full-Stack Developer building community-driven and client-focused web apps.
   🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – React + Chakra UI game discovery platform.
 
 ---
+### 🧰 Tech Stack
 
-### 🛠 Tech I Use
+**Front-end:**  
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Material UI • Chakra UI
 
-React • TypeScript • Next.js • Tailwind CSS  
-Node.js • Laravel • PHP • Express • MySQL  
-Chakra UI • Material UI
+**Back-end:**  
+Node.js • Express.js • PHP • Laravel • MySQL
 
----
-
-### 📫 Reach Me
-
-📧 makayamufind@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/jean-marc-mufind)
-
+**Other:**  
+REST APIs • Git & GitHub • Vercel • CI/CD • Responsive & Mobile-First Design • SEO Optimization
 ---
 
 ### ⚡ Fun Fact  
