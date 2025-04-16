@@ -12,28 +12,9 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🌱 Currently Exploring
-
-- Full-stack architecture with **Laravel + Vue/React**
-- Scalable e-commerce tools with **Shopify APIs**
-- CI/CD pipelines for smoother deployments
-- Community-driven software projects and open source contributions
-
----
-
-### 💬 Ask Me About
-
-- Building CRM and e-commerce platforms from scratch
-- Laravel, React, MySQL, RESTful APIs
-- Automation in community projects
-- Managing technical and collaborative workflows
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: makayamufind@gmail.com
-- 🌍 Portfolio/Website: jmmufind.com *(if available)*
 - 🧑‍💻 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/jean-marc-mufind)
 
 ---
