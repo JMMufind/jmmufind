@@ -18,7 +18,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ### 🧰 Tech Stack
 
-- <div style="margin-left: 100px">
+ <div style="margin-left: 100px">
 
   <h4 style="margin-bottom: 4px;">🧩 Front-end</h4>
   <p>
