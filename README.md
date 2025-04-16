@@ -18,7 +18,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ### 🧰 Tech Stack
 
-<div style="text-align: right; margin-left: 10px">
+<div style="margin-left: 100px">
 
   <h4 style="margin-bottom: 4px;">🧩 Front-end</h4>
   <p>
@@ -27,8 +27,8 @@ Full-Stack Developer building community-driven and client-focused web apps.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" style="margin-right: 16px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="TypeScript" style="margin-right: 16px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="React" style="margin-right: 16px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" style="margin-right: 16px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="22" alt="Tailwind CSS" style="margin-right: 16px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="22" alt="Next.js" style="margin-right: 16px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="18" alt="Tailwind CSS" style="margin-right: 16px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="22" alt="Material UI" />
   </p>
 
