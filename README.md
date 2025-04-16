@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi there, I'm Jean Marc
 
-<!--
-**JMMufind/jmmufind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I’m Working On
+
+- 🛠 **[TCB-CRM](https://github.com/your-repo-url)**: A custom-built CRM for [Christian Tabernacle of Boston](https://ctboston.org) – streamlining church member engagement, donations, and internal workflows.
+- 🛍 **ChilaShop**: An e-commerce platform tailored for modern digital shoppers, currently in development.
+- 🤝 Collaborating with the **Tano Community** to build inclusive tech solutions and support community-based digital initiatives.
+
+---
+
+### 🌱 Currently Exploring
+
+- Full-stack architecture with **Laravel + Vue/React**
+- Scalable e-commerce tools with **Shopify APIs**
+- CI/CD pipelines for smoother deployments
+- Community-driven software projects and open source contributions
+
+---
+
+### 💬 Ask Me About
+
+- Building CRM and e-commerce platforms from scratch
+- Laravel, React, MySQL, RESTful APIs
+- Automation in community projects
+- Managing technical and collaborative workflows
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: makayamufind@gmail.com
+- 🌍 Portfolio/Website: jmmufind.com *(if available)*
+- 🧑‍💻 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/jean-marc-mufind)
+
+---
+
+### ⚡ Fun Fact
+
+I love building solutions that empower communities — one line of code at a time!
