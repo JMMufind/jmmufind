@@ -18,8 +18,8 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ### 🧰 Tech Stack
 
- <div style="margin-left: 100px">
-
+ <div style="margin-left: 100px; display: flex; gap:1rem">
+  <div>
   <h4 style="margin-bottom: 4px;">🧩 Front-end</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" style="margin-right: 16px;" />
@@ -31,7 +31,8 @@ Full-Stack Developer building community-driven and client-focused web apps.
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="18" alt="Tailwind CSS" style="margin-right: 16px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="22" alt="Material UI" />
   </p>
-
+  </div>
+   <div>
   <h4 style="margin-bottom: 4px;">🛠️ Back-end</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="22" alt="Node.js" style="margin-right: 16px;" />
@@ -40,7 +41,8 @@ Full-Stack Developer building community-driven and client-focused web apps.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="22" alt="Laravel" style="margin-right: 16px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="MySQL" />
   </p>
-
+  </div>
+  <div>
   <h4 style="margin-bottom: 4px;">🔧 Tools & Platforms</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="Git" style="margin-right: 16px;" />
@@ -48,7 +50,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="22" alt="Vercel" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="Docker" />
   </p>
-
+  </div>
 </div>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JMMufind)  
