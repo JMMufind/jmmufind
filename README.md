@@ -16,7 +16,7 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 | 🧩 Front-end | 🛠️ Back-end | ⚙️ Tools & Platforms |
 |-------------|-------------|----------------------|
