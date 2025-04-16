@@ -26,8 +26,5 @@ Full-Stack Developer building community-driven and client-focused web apps.
 
 ---
 
-👨‍💻 Member at [Tano]([https://github.com/Tano-Integrated-Technology])
-
-
 ### ⚡ Fun Fact  
 I love building tools that uplift communities — code with purpose.
