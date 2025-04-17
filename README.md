@@ -11,8 +11,9 @@ Full-Stack Developer building community-driven and client-focused web apps.
   🧭 *CRM for [Himalaya Travel Agency](https://himalayatravel.net)* – Custom booking & customer management system.
 
 - ✅ **Recently worked on**:  
+  ⚡ [We Are Power](https://wearepower.net/home) – Social impact platform for diversity and gender equality.  
   🎨 [KD Design Studio](https://kddesignstudio.net/) – Portfolio & service site built with Laravel.  
-  🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – React + Chakra UI game discovery platform.
+  🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – React + Chakra UI game discovery platform.  
 
 ---
 
