@@ -10,7 +10,8 @@ Full-Stack Developer building community-driven and client-focused web apps.
   🛒 *ChilaShop* – A modern e-commerce platform with Next.Js.  
   🧭 *CRM for [Himalaya Travel Agency](https://himalayatravel.net)* – Custom booking & customer management system.
 
-- ✅ **Recently worked on**:  
+- ✅ **Recently worked on**:
+  🏡 Future Scope Solutions – Home renovation company site built with Laravel + Tailwind CSS.  
   ⚡ [We Are Power](https://wearepower.net/home) – Social impact platform for diversity and gender equality.  
   🎨 [KD Design Studio](https://kddesignstudio.net/) – Portfolio & service site built with Laravel.  
   🎮 [Tano Game Hub](https://tano-game-hub.vercel.app/) – React + Chakra UI game discovery platform.  
